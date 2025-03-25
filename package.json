@@ -5,7 +5,6 @@
   "name": "matrices-multidimensionales",
   "version": "1.0.0",
   "main": "ejercicio.js",
-  "type": "module",
   "devDependencies": {},
   "scripts": {
     "dev":"node ejercicio.js",
