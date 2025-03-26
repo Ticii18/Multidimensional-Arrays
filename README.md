@@ -11,7 +11,8 @@ Este proyecto es un ejercicio simple en **Python** que solicita datos al usuario
 2. Abre una terminal en la carpeta donde guardaste el archivo.
 3. Ejecuta el script con:
    ```sh
-   python script.py
+   python ejercicio.py
+   
    ```
 4. Se te pedirá ingresar:
    - Nombre
